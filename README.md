@@ -11,10 +11,10 @@ JSON Structure of Dataset is as follows:
 ```
 {
     "test_ds": [
-                {"question" : "<your question goes here>", "html" : "<htmls code from in which you have to search answer goes here>" , "answer" : "<ground truth answer goes here>"},
-                {"question" : "<your question goes here>", "html" : "<htmls code from in which you have to search answer goes here>" , "answer" : "<ground truth answer goes here>"},
+                {"question" : "<your question goes here>", "html" : "<html code in which you have to search answer goes here>" , "answer" : "<ground truth answer goes here>"},
+                {"question" : "<your question goes here>", "html" : "<html code in which you have to search answer goes here>" , "answer" : "<ground truth answer goes here>"},
                 ...
-                {"question" : "<your question goes here>", "html" : "<htmls code from in which you have to search answer goes here>" , "answer" : "<ground truth answer goes here>"}
+                {"question" : "<your question goes here>", "html" : "<html code in which you have to search answer goes here>" , "answer" : "<ground truth answer goes here>"}
             ]
 }
 ```
