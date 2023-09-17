@@ -6,7 +6,7 @@ import sys
 def main():
     #Command to run the code
     """
-    python3 test.py --device="cuda" --test_ds="dataset.json" --output_csv="test_set_results.csv"
+    python3 test_markuplm.py --device="cuda" --test_ds="dataset.json" --output_csv="test_set_results.csv"
     """
 
     args = sys.argv[1:]
