@@ -18,24 +18,15 @@ JSON Structure of Dataset is as follows:
             ]
 }
 ```
-Reference Citation:
+MarkupLM Reference:
 
 ```
-@article{DBLP:journals/corr/abs-2110-08518,
-  author       = {Junlong Li and
-                  Yiheng Xu and
-                  Lei Cui and
-                  Furu Wei},
-  title        = {MarkupLM: Pre-training of Text and Markup Language for Visually-rich
-                  Document Understanding},
-  journal      = {CoRR},
-  volume       = {abs/2110.08518},
-  year         = {2021},
-  url          = {https://arxiv.org/abs/2110.08518},
-  eprinttype    = {arXiv},
-  eprint       = {2110.08518},
-  timestamp    = {Fri, 22 Oct 2021 13:33:09 +0200},
-  biburl       = {https://dblp.org/rec/journals/corr/abs-2110-08518.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+@misc{li2022markuplm,
+      title={MarkupLM: Pre-training of Text and Markup Language for Visually-rich Document Understanding}, 
+      author={Junlong Li and Yiheng Xu and Lei Cui and Furu Wei},
+      year={2022},
+      eprint={2110.08518},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
