@@ -1,5 +1,7 @@
 # Microsoft-MarkupLM
 
+Description of model can be found at: https://medium.com/@hussainsyedshaharyaar/extractive-question-answering-using-bert-based-model-markuplm-798456e730ba
+
 For running the inference use the following command:
 
 `python3 test_markuplm.py --device="cuda" --test_ds="dataset.json" --output_csv="test_set_results.csv"`
